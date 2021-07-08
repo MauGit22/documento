@@ -17,6 +17,5 @@ Nel Capitolo 3 vengono presentati ...
 .. toctree::
    titolo-capitolo-1.rst
    titolo-capitolo-2.rst
-####################
-Capitolo 2
-####################
+   docs/mau.rst
+
